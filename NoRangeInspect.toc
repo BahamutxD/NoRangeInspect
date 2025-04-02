@@ -1,0 +1,7 @@
+## Interface: 11200 (WoW 1.12)
+## Title: [SuperWoW] NoRangeInspect |cff7fff7fby |cffF5F54ABha!
+## Notes: Allows inspecting players regardless of distance.
+## Author: Bha!
+## Version: 1.0
+
+NoRangeInspect.lua
